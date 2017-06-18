@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<testsuite name="PhantomJS 2.1.1 (Windows 8 0.0.0)" package="" timestamp="2017-06-18T03:47:52" id="0" hostname="LAPTOP-PJVHPT9O" tests="2" errors="0" failures="1" time="0.004">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
+  </properties>
+  <testcase name="関数のテスト 1 + 1 = 2である" time="0.003" classname="PhantomJS_2_1_1_(Windows_8_0_0_0).関数のテスト"/>
+  <testcase name="関数のテスト 1 + 2 = 3である" time="0.001" classname="PhantomJS_2_1_1_(Windows_8_0_0_0).関数のテスト">
+    <failure type="">Expected 3 to be 2.
+test/calc-utils.test.js:9:27
+</failure>
+  </testcase>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
