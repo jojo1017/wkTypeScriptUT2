@@ -20,10 +20,14 @@
   },
   "homepage": "https://github.com/jojo1017/wkTypeScriptUT2#readme",
   "devDependencies": {
+    "istanbul-instrumenter-loader": "^2.0.0",
     "jasmine": "^2.6.0",
     "karma": "^1.7.0",
     "karma-coverage": "^1.1.1",
     "karma-junit-reporter": "^1.2.0",
-    "karma-phantomjs-launcher": "^1.0.4"
+    "karma-phantomjs-launcher": "^1.0.4",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^2.0.3",
+    "webpack": "^2.6.1"
   }
 }
