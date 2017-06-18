@@ -32,6 +32,7 @@ module.exports = function (config) {
       'test/*.js': ['webpack', 'sourcemap']
     },
 
+
     // Webpack settings.
     webpack: {
       devtool: 'inline-source-map',
